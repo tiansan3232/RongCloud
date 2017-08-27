@@ -25,9 +25,9 @@ android {
 
 //添加
 publish {
-    userOrg = 'tiansan'//bintray.com用户名
-    groupId = 'com.tiansan'//jcenter上的路径
-    artifactId = 'CallLib'//项目名称
+    userOrg = 'tiansan3232'//bintray.com用户名
+    groupId = 'com.github.tiansan3232'//jcenter上的路径
+    artifactId = 'RongCloud'//项目名称
     publishVersion = '2.8.16'//版本号
     desc = 'rongcloud-calllib'//描述，不重要
     website = 'https://github.com/tiansan3232/RongCloud'//网站，不重要；尽量模拟github上的地址，例如我这样的；当然你有地址最好了
